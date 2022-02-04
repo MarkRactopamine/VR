@@ -1,0 +1,10 @@
+<!DOCTYPE hteml>
+<html>
+<head>
+  <title>VR-Test</title>
+ </head> 
+ <body>
+   <a href="philipstein.usdz" rel="al">
+     <image src="philipstein.png" width=200>   
+ </body>
+ </html>
